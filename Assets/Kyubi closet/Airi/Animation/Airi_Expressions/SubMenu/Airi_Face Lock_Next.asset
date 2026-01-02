@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Airi_Face Lock_Next
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 696ce4df6bbbb0b48b181495acd4b097, type: 2}
+  controls:
+  - name: Thumbs up
+    icon: {fileID: 2800000, guid: 1a71ec5ec185c624395e6e942f674407, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Happy
+    icon: {fileID: 2800000, guid: e967fe6ec56a88c4cbb50f21bdf340b6, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Panic
+    icon: {fileID: 2800000, guid: a8a8a79ae33067548a6963c0bc90a336, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hate
+    icon: {fileID: 2800000, guid: 89be92ab48441f54299fc8e2385772cd, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 2800000, guid: 8a36638c2e58b4f4aaa86bf1b0a048e9, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tired
+    icon: {fileID: 2800000, guid: 7b835cdd86d62e94c833cf0d61dc5418, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Heart
+    icon: {fileID: 2800000, guid: 165b3fcadc8cee747bf7ea1d8579280e, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shy
+    icon: {fileID: 2800000, guid: 295c415ed4bc47f42aa1e05e099bd6f9, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

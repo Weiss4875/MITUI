@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Airi_Face Lock
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 696ce4df6bbbb0b48b181495acd4b097, type: 2}
+  controls:
+  - name: Idle
+    icon: {fileID: 2800000, guid: b8a56adc09576414b98d93e500f441ad, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Fist
+    icon: {fileID: 2800000, guid: a15cd4ba5ce414c40be5004f4365db99, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Open
+    icon: {fileID: 2800000, guid: 899efc4cb59227d45a5e56bec64554d9, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Point
+    icon: {fileID: 2800000, guid: 714ab1e7fb8645e4aa6c86c028010524, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Peace
+    icon: {fileID: 2800000, guid: 9d89c076af5cef74f89b275576a6fe2b, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: RockNRoll
+    icon: {fileID: 2800000, guid: f7d0913356888a2408244eb5c01dbb5b, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Gun
+    icon: {fileID: 2800000, guid: a571374889b931748bb4b0d1811c49ff, type: 3}
+    type: 102
+    parameter:
+      name: Face_Lock_P
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Next
+    icon: {fileID: 2800000, guid: eabd447b0c5db74478654ece73156135, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0109f4ef62305754aae244428e6e4379, type: 2}
+    subParameters: []
+    labels: []

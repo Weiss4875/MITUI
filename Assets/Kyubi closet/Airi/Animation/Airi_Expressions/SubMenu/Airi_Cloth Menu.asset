@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Airi_Cloth Menu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 696ce4df6bbbb0b48b181495acd4b097, type: 2}
+  controls:
+  - name: Dress
+    icon: {fileID: 2800000, guid: 94ec70d75e33e994385ff275629e07de, type: 3}
+    type: 102
+    parameter:
+      name: Dress
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Dragon
+    icon: {fileID: 2800000, guid: 0969658aa96b73644a1b53a3023829cc, type: 3}
+    type: 102
+    parameter:
+      name: Dragon
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleeve
+    icon: {fileID: 2800000, guid: 39bf77e6532bda742abf18a73f0bd823, type: 3}
+    type: 102
+    parameter:
+      name: Sleeve
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Bracelet
+    icon: {fileID: 2800000, guid: 99bcdaad1fde6854a9f065ca2379e140, type: 3}
+    type: 102
+    parameter:
+      name: Bracelet
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Leg_belt
+    icon: {fileID: 2800000, guid: 4ed30d66723a58942b8c09e4c498ec2e, type: 3}
+    type: 102
+    parameter:
+      name: Leg_belt
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoes
+    icon: {fileID: 2800000, guid: cc0e49d9eeabb7f479ab1fe1aebb2744, type: 3}
+    type: 102
+    parameter:
+      name: Shoes
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair_tie
+    icon: {fileID: 2800000, guid: 38fd9a99e5c58d74897e08e99740e99c, type: 3}
+    type: 102
+    parameter:
+      name: Hair_tie
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair_band
+    icon: {fileID: 2800000, guid: d0042ba147fcf424ea3dbb5c5b32bc21, type: 3}
+    type: 102
+    parameter:
+      name: Hair_band
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

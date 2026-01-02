@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shoes Black
+  m_Shader: {fileID: 4800000, guid: df12117ecd77c31469c224178886498e, type: 3}
+  m_Parent: {fileID: 2100000, guid: 104172448bb8b7246a84ad491bd38391, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseColorMap:
+        m_Texture: {fileID: 2800000, guid: 72245649ef9591f4fa5e03ff0763f24f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 72245649ef9591f4fa5e03ff0763f24f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 72245649ef9591f4fa5e03ff0763f24f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _LightMinLimit: 0.3
+    - _ShadowBorder: 0.55
+    - _ShadowStrength: 0.323
+    m_Colors:
+    - _MatCapColor: {r: 1, g: 1, b: 1, a: 0.1}
+    - _RimShadeColor: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 1}
+    - _Shadow2ndColor: {r: 0.49056602, g: 0.49056602, b: 0.49056602, a: 0.697}
+    - _ShadowColor: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+  m_BuildTextureStacks: []
