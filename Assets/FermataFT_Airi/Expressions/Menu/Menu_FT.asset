@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Menu_FT
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: eab3f21937d017443b12479e5afb3898, type: 2}
+  controls:
+  - name: Eye Tracking
+    icon: {fileID: 2800000, guid: 237e072a4e5bd104b85f3ae3641ee820, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/EyeTracking
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Lip Tracking
+    icon: {fileID: 2800000, guid: c7d9569ebf2c8234f95bf7f1f11166db, type: 3}
+    type: 102
+    parameter:
+      name: Toggle/LipTracking
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Gesture Expression Diabled
+    icon: {fileID: 2800000, guid: fd3abcbd921b1ad4f8d9cd65578abe1d, type: 3}
+    type: 102
+    parameter:
+      name: GestureExpressionsDisabled
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: QuestPro,Pico4Pro
+    icon: {fileID: 2800000, guid: 2629900e6ea667947aa63c3193d3a9b7, type: 3}
+    type: 102
+    parameter:
+      name: QPro/Tongue_Toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: EyeLid LR Sync
+    icon: {fileID: 2800000, guid: 549a031864b32da4583ab34522b175b6, type: 3}
+    type: 102
+    parameter:
+      name: Eye Lid LR Sync
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: JellyEye
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: JellyEye
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

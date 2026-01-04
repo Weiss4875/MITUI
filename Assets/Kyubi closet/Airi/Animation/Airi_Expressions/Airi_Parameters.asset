@@ -12,5 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Airi_Parameters
   m_EditorClassIdentifier: 
-  isEmpty: 1
-  parameters: []
+  isEmpty: 0
+  parameters:
+  - name: Face_Lock_P
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: Index
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1

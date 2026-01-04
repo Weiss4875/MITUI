@@ -733,28 +733,28 @@ Material:
     - _Scroll_EmissiveV: 0
     - _Set_SystemShadowsToBase: 0
     - _ShadeColor_Step: 0.416
-    - _Shadow2ndBlur: 0.127
-    - _Shadow2ndBorder: 0.15
+    - _Shadow2ndBlur: 0.275
+    - _Shadow2ndBorder: 0.4
     - _Shadow2ndNormalStrength: 1
     - _Shadow2ndReceive: 0
-    - _Shadow3rdBlur: 0.1
-    - _Shadow3rdBorder: 0.25
+    - _Shadow3rdBlur: 0.085
+    - _Shadow3rdBorder: 0.126
     - _Shadow3rdNormalStrength: 1
-    - _Shadow3rdReceive: 0
-    - _ShadowBlur: 0.134
+    - _Shadow3rdReceive: 0.1
+    - _ShadowBlur: 0.442
     - _ShadowBlurMaskLOD: 0
-    - _ShadowBorder: 0.219
+    - _ShadowBorder: 0.5
     - _ShadowBorderMaskLOD: 0
-    - _ShadowBorderRange: 0.027
+    - _ShadowBorderRange: 0
     - _ShadowColorType: 0
     - _ShadowEnvStrength: 0
     - _ShadowFlatBlur: 1
     - _ShadowFlatBorder: 1
     - _ShadowMainStrength: 0
     - _ShadowMaskType: 0
-    - _ShadowNormalStrength: 1
+    - _ShadowNormalStrength: 0.726
     - _ShadowPostAO: 0
-    - _ShadowReceive: 0.8
+    - _ShadowReceive: 1
     - _ShadowStrength: 1
     - _ShadowStrengthMaskLOD: 0
     - _ShiftBackfaceUV: 0
@@ -927,12 +927,12 @@ Material:
     - _RimIndirColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimLightColor: {r: 0.3490566, g: 0.29307583, b: 0.3069391, a: 1}
     - _RimShadeColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _Shadow2ndColor: {r: 0.7669396, g: 0.7692986, b: 0.8679245, a: 1}
+    - _Shadow2ndColor: {r: 0.7176471, g: 0.7058823, b: 0.8000001, a: 1}
     - _Shadow3rdColor: {r: 0, g: 0, b: 0, a: 0}
     - _ShadowAOShift: {r: 1, g: 0, b: 1, a: 0}
     - _ShadowAOShift2: {r: 1, g: 0, b: 1, a: 0}
-    - _ShadowBorderColor: {r: 1, g: 0.5803922, b: 0.6369545, a: 1}
-    - _ShadowColor: {r: 0.85383683, g: 0.83432215, b: 0.899371, a: 1}
+    - _ShadowBorderColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ShadowColor: {r: 0.6627451, g: 0.64705884, b: 0.79215693, a: 1}
     - _ViewShift: {r: 0, g: 0, b: 0, a: 1}
     - _e2ga0: {r: 1, g: 0, b: 0, a: 0}
     - _e2ga1: {r: 1, g: 0, b: 0, a: 1}
